@@ -1,0 +1,9 @@
+.pic{
+    background-image: url("./degree.jpg");  
+  background-size: cover;  
+  background-repeat: no-repeat; 
+  min-height: 90vh;
+}
+/* .main-content{
+  
+} */
